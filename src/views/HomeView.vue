@@ -17,5 +17,3 @@ import SubscriptionStatusForm from '@/components/SubscriptionStatusForm.vue'
     </div>
   </div>
 </template>
-
-
