@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/swami-org-logo.png" width="125" height="125" />
+    <img alt="Org logo" class="logo" src="@/assets/swami-org-logo.png" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld
@@ -54,7 +54,7 @@ nav a.router-link-exact-active:hover {
 nav a {
   display: inline-block;
   padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
+  /* border-left: 1px solid var(--color-border); */
 }
 
 nav a:first-of-type {
@@ -82,7 +82,6 @@ nav a:first-of-type {
     text-align: left;
     margin-left: -1rem;
     font-size: 1rem;
-
     padding: 1rem 0;
     margin-top: 1rem;
   }

@@ -19,6 +19,8 @@
   --sssso-text-light-2: rgba(60, 60, 60, 0.66);
   --sssso-text-dark-1: var(--sssso-white);
   --sssso-text-dark-2: rgba(235, 235, 235, 0.64);
+  --sssso-text-color1: #CC3300;
+  --sssso-text-color2: #00658C;
 }
 
 /* semantic color variables for this project */
