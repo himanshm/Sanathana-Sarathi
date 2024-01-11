@@ -91,7 +91,7 @@
 <style scoped>
 .story-container {
   height: 100vh;
-  overflow: auto;
+  /* overflow: auto; */
   scrollbar-width: none;
   padding: 1rem 0;
 }
